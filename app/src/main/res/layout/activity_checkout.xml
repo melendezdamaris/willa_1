@@ -29,7 +29,9 @@
       android:orientation="horizontal"
       android:layout_marginLeft="30dp"
       android:layout_marginRight="30dp"
-      android:layout_marginTop="60dp">
+      android:layout_marginTop="60dp"
+      android:background="#B262B6AF">
+
 
       <ImageView
           android:layout_width="100dp"
@@ -54,7 +56,8 @@
       android:orientation="horizontal"
       android:layout_marginLeft="30dp"
       android:layout_marginRight="30dp"
-      android:layout_marginTop="60dp">
+      android:layout_marginTop="60dp"
+      android:background="#B362B6AF">
 
     <ImageView
         android:layout_width="100dp"
@@ -79,7 +82,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="100dp"
         android:layout_marginRight="20dp"
-        android:background="#9F9356"
+        android:background="#FFC107"
         android:text="@string/pago"
         android:textColor="@color/black"
         android:textSize="16sp" />
