@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Willakun</string>
+
+    <string name="noads">Eliminar Anuncios</string>
+    <string name="premium">Haz click aqui para eliminar anuncios</string>
+    <string name="premiumTitle">Obten Acceso Premium</string>
+    <string name="premiumBeneficio1">No más Anuncios</string>
+    <string name="premiumBeneficio2">Dashboard mas detallados</string>
+    <string name="pago">PAGA SOLO S/. 24.90</string>
+</resources>
