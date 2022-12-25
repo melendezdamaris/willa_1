@@ -13,11 +13,6 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-    /*
-    PaymentConfiguration.init(
-            applicationContext,
-            "pk_test_51MILJmCUSDDVSPGZGTOuDZAJs4xu8TOkwqdd6aySaYY1N1yMNFMu98zc9zeWceSHZhMHj9pIQ69qXnCvxDBmMcal00UzDo91zb"
-        )
 
 
     fun launchPaymentCard(v: View){
@@ -30,5 +25,5 @@ class MainActivity : AppCompatActivity() {
 
         val intent = Intent(this, CheckoutActivity::class.java)
         startActivity(intent)
-    }*/
+    }
 }

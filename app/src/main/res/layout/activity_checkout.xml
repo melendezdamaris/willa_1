@@ -85,6 +85,7 @@
         android:background="#FFC107"
         android:text="@string/pago"
         android:textColor="@color/black"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        />
 
 </LinearLayout>
